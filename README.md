@@ -1,5 +1,5 @@
 ![HTML](https://github.com/ThiagoResende88/HTML-Explicado/assets/117482959/54629358-1e84-4c3e-b787-f9a6d8063baf)
-Link:
+Link: https://thiagoresende88.github.io/HTML-Explicado/ 
 
 # Material Didático de HTML para Alunos da Graduação
 Este é um projeto de material didático interativo desenvolvido para ensinar HTML para alunos da graduação da Fatec. O material consiste em uma página web interativa onde os alunos podem visualizar exemplos de código HTML e ver o resultado renderizado na própria página.
